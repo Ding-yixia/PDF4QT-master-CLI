@@ -1,0 +1,2 @@
+#define PDF4QT_PLUGINS_RELATIVE_PATH "plugins"
+#define PDF4QT_TRANSLATIONS_RELATIVE_PATH "translations"

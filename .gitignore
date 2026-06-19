@@ -1,0 +1,33 @@
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+*.sln
+*.vcxproj*
+*.filters
+cmake_install.cmake
+
+# Compiled objects
+*.o
+*.obj
+*.lib
+*.a
+*.so
+*.dll
+*.exe
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Test output
+原始测试PDF文件/output/
+原始测试PDF文件/test_output/
+原始测试PDF文件/*_optimized.pdf
+原始测试PDF文件/*_sanitized.pdf
+原始测试PDF文件/*_temp*.pdf
+原始测试PDF文件/*.csv
+原始测试PDF文件/batch_optimize.ps1
+原始测试PDF文件/run_batch.bat
